@@ -1,0 +1,2 @@
+sirius-itog case: 3
+question: 6
